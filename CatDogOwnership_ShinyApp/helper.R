@@ -1,6 +1,3 @@
-#us_states <- map_data("state")
-#head(us_states)
-
 percent_map <- function(bigdata, var, color) {
   
   
