@@ -33,7 +33,7 @@ ui <- fluidPage(
       selectInput("var", 
                   label = "Choose a variable to display",
                   choices = c("Percent Pet Households", "Percent Dog Owners"),
-                  selected = "Percent Pet Households")
+                  selected = "Percent Dog Owners")
     ),
       
 
